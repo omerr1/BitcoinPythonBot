@@ -3,8 +3,8 @@ import asyncio
 import pandas as pd
 import csv
 
-API_KEY = "qb4uHStm5PhDvhSMzOfntlk4MZKFaxYjqYJTb3kIgIxqgbM4ez1aGHhnsj1sRXFk"
-SECRET_KEY = "gE19URvgXIz39QfCWAgF0XHEv7RjQpeJG72dr4whEMMtOVdlNWCW0KKdAkGMzOEl"
+API_KEY = ""
+SECRET_KEY = ""
 
 SYMBOL = "BTCUSDT"
 
